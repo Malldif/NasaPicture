@@ -10,10 +10,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="FirstTask" />
+        <module name="NasaPicture" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="NasaPicture" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
